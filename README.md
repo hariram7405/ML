@@ -17,22 +17,8 @@ A simple command-line game where the user competes against the computer in a **R
 - **Score Tracking**: The game tracks scores for both the user and the computer. The first to reach 3 points wins the match.
 - **Replay Option**: After each game, the user is prompted to play again. The overall win count is displayed, and the game ends when the user chooses not to continue.
 
-## How to Run
-
 ### Requirements:
 - **C Compiler** (such as GCC) to compile the C code.
-
-### Steps:
-1. Clone this repository or download the `main.c` file to your local machine.
-2. Open a terminal and navigate to the folder containing the `main.c` file.
-3. Compile the code using the following command:
-   ```
-   gcc main.c -o rock_paper_scissors
-   ```
-4. Run the compiled program:
-   ```
-   ./rock_paper_scissors
-   ```
 
 ### Game Instructions:
 - After running the game, you will be prompted to enter your choice ('r', 's', or 'p').
